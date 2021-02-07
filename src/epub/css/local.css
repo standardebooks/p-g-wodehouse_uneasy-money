@@ -1,7 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -33,7 +32,6 @@ footer{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
-
 
 p span.i1{
 	text-indent: -1em;
