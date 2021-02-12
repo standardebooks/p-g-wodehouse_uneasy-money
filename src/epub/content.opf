@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/p-g-wodehouse/uneasy-money</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-02-12T22:41:56Z</dc:date>
+		<meta property="dcterms:modified">2021-02-12T22:41:56Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -51,14 +51,14 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">When Lord Dawlish unexpectedly comes into an inheritance, he travels from London to New York to try to give it away.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Affable and honourable, Lord Dawlish is the second poorest peer in England, relying on his income as a club secretary. Claire Fenwick, his beautiful fiancée, will not marry him until he has some money, so he draws up plans to travel to New York and make his fortune. When he unexpectedly comes into an inheritance, he attempts to give it to whom he believes is the more deserving recipient. This, however, proves more difficult than expected.&lt;/p&gt;
+			&lt;p&gt;Affable and honourable, Lord Dawlish is the second poorest peer in England, relying on his income as a club secretary. Claire Fenwick, his beautiful fiancée, will not marry him until he has some money, so he draws up plans to travel to New York and make his fortune. When he unexpectedly comes into an inheritance, he attempts to give it to whomever he believes is the more deserving recipient. This, however, proves more difficult than expected.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;Sir Pelham Grenville Wodehouse&lt;/a&gt; was an English author and one of the most widely read humorists of the twentieth century. After leaving school, he was employed by a bank but disliked the work and turned to writing in his spare time. His early writing mostly consisted of school stories, but he later switched to writing comic fiction, creating several regular characters who became familiar to the public over the years, such as Bertie Wooster and Jeeves.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/uneasymoney00wodegoog/</dc:source>
 		<meta property="se:production-notes">OCR was done from scratch from IA pdfs; original illustrations were removed.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">71166</meta>
+		<meta property="se:reading-ease.flesch">74.59</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Uneasy_Money</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_uneasy-money</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
@@ -70,8 +70,8 @@
 		<dc:contributor id="artist">Andrew W. Warren</dc:contributor>
 		<meta property="file-as" refines="#artist">Warren, Andrew W.</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="producer-1">ACBSmith</dc:contributor>
-		<meta property="file-as" refines="#producer-1">ACBSmith</meta>
+		<dc:contributor id="producer-1">Asher Smith</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Smith, Asher</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -79,6 +79,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://astart.ca</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
