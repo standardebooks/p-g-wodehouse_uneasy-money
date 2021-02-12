@@ -35,6 +35,11 @@ footer{
 
 p span.i1{
 	text-indent: -1em;
+	padding-left: 1em;
+}
+
+p span.i2{
+	text-indent: -1em;
 	padding-left: 6em;
 }
 
