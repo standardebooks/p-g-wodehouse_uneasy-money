@@ -60,7 +60,7 @@
 		<meta property="se:production-notes">OCR was done from scratch from IA pdfs; original illustrations were removed.</meta>
 		<meta property="se:word-count">71166</meta>
 		<meta property="se:reading-ease.flesch">74.59</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Uneasy_Money</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Uneasy_Money_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_uneasy-money</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
 		<meta property="file-as" refines="#author">Wodehouse, P. G.</meta>
