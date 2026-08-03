@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/p-g-wodehouse/uneasy-money</dc:identifier>
 		<dc:date>2021-02-12T22:41:56Z</dc:date>
@@ -50,11 +50,11 @@
 		<meta property="term" refines="#subject-6">sh2007101976</meta>
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">When Lord Dawlish unexpectedly comes into an inheritance, he travels from London to New York to try to give it away.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>When Lord Dawlish unexpectedly comes into an inheritance, he travels from London to New York to try to give it away.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Affable and honourable, Lord Dawlish is the second poorest peer in England, relying on his income as a club secretary. Claire Fenwick, his beautiful fiancée, will not marry him until he has some money, so he draws up plans to travel to New York and make his fortune. When he unexpectedly comes into an inheritance, he attempts to give it to the person he believes is the more deserving recipient. This, however, proves more difficult than expected.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;Sir Pelham Grenville Wodehouse&lt;/a&gt; was an English author and one of the most widely read humorists of the twentieth century. After leaving school, he was employed by a bank but disliked the work and turned to writing in his spare time. His early writing mostly consisted of school stories, but he later switched to writing comic fiction, creating several regular characters who became familiar to the public over the years, such as Bertie Wooster and Jeeves.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/uneasymoney00wodegoog</dc:source>
 		<meta property="schema:wordCount">69703</meta>
