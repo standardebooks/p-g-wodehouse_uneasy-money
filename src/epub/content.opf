@@ -30,12 +30,12 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Uneasy Money</dc:title>
 		<meta property="file-as" refines="#title">Uneasy Money</meta>
-		<dc:subject id="subject-1">New York (N.Y.) -- Fiction</dc:subject>
+		<dc:subject id="subject-1">New York (N.Y.)--Fiction</dc:subject>
 		<dc:subject id="subject-2">Humorous stories</dc:subject>
-		<dc:subject id="subject-3">Inheritance and succession -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Inheritance and succession--Fiction</dc:subject>
 		<dc:subject id="subject-4">Love stories</dc:subject>
-		<dc:subject id="subject-5">Aristocracy (Social class) -- Fiction</dc:subject>
-		<dc:subject id="subject-6">British -- United States -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Aristocracy (Social class)--Fiction</dc:subject>
+		<dc:subject id="subject-6">British--United States--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008108377</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
