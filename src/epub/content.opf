@@ -65,7 +65,7 @@
 		<link href="https://github.com/standardebooks/p-g-wodehouse_uneasy-money" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
 		<meta property="file-as" refines="#author">Wodehouse, P. G.</meta>
-		<meta property="schema:alternateName" refines="#author">Sir Pelham Grenville Wodehouse</meta>
+		<meta property="schema:alternateName" refines="#author">Pelham Grenville Wodehouse</meta>
 		<link href="https://en.wikipedia.org/wiki/P._G._Wodehouse" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n78089036.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
